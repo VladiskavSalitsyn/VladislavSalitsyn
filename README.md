@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VladiskavSalitsyn
+- 👋 Hi, I’m @VladislavSalitsyn
 - 👀 I’m interested in Software testing, Programming in Java and Python
 - 🌱 I’m currently learning Pyton, Java
 - 💞️ I’m looking to collaborate on salitsyn95@mail.ru
